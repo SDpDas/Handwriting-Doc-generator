@@ -17,4 +17,9 @@ This tool serves a basic purpose to convert any document to handwritten text tha
 
 4. Observe the results in handwritten_generated_doc.docx
 
+## Another method:
+
+Dare to try this in handwritten text input of user that'll involve ANN's, large training that can go wrong and docx generated incorrectly.
+Hence using online fonts is my preferred choice. 
+
 # Created by Sagardeep Das
