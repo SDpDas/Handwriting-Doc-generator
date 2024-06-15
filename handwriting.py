@@ -54,10 +54,10 @@ font_path = 'C:/Users/SAGAR DEEP/Desktop/Handwriting tool/GreatVibes-Regular.ttf
 image_path = 'C:/Users/SAGAR DEEP/Desktop/Handwriting tool/new_imageV2.jpg'
 word_doc_path = 'C:/Users/SAGAR DEEP/Desktop/Handwriting tool/handwritten_generated_doc.docx'
 
-#text = extract_text_from_docx(docx_path)
-#text_to_handwritten_image(text, font_path, image_path)
+text = extract_text_from_docx(docx_path)
+text_to_handwritten_image(text, font_path, image_path)
 
-#print(f"handwritten text image saved to {image_path}")
+print(f"handwritten text image saved to {image_path}")
 
 insert_image_into_doc(image_path, word_doc_path)
 
